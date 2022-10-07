@@ -23,7 +23,9 @@ const converted = ref('')
 watchEffect(() => convert(text.value))
 
 
-const API_URL = `/data/bwgrkn.json`
+//const API_URL = `/data/bwgrkn.json`
+const API_URL = "https://raw.githubusercontent.com/banneroftruth/BibleWorksToUnicode/main/data/bwgrkn.json"
+
 
 watchEffect(async () => {
   // this effect will run immediately and then
