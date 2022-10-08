@@ -16,7 +16,7 @@ import {ref, watchEffect} from 'vue'
 let data = ref([]) // (await fetch(url)).json()
 const showModal = ref(false)
 
-const text = ref('text23')
+const text = ref('to. pneu/ma auvtou/ fhsi. to. a[gion pneu/ma( pro,swpon di. ton monogenh/ ui`o,n')
 const selected = ref('bwgrkn')
 const converted = ref('')
 
