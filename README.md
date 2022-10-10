@@ -64,12 +64,12 @@ I'd be delighted if you submit a pull request!
 
 If you are contributing font conversions, please use the following sites:
 
-**What Unicode character is this?**
+**What Unicode character is this?**  
 https://www.babelstone.co.uk/Unicode/whatisit.html
 
-For example, in GREEK KORONIS `᾽` in some fonts looks exactly the same as RIGHT SINGLE QUOTATION MARK `’`. It’s important to use the correct letter, even though it looks the same! Copy and paste characters into the above website to confirm the character.
+For example, some fonts display GREEK KORONIS `᾽` exactly the same as RIGHT SINGLE QUOTATION MARK `’`. Although they look the same, from a code point of view, it’s a different character. Copy and paste characters into the above website to confirm the character code is what you expect. Note: sometimes letters are not named correctly. You'll have to lookup guidance.
 
-Character 
+**Character lookups**  
 https://www.compart.com/en/unicode/
 
-Good for listing character sets from different languages
+Good for listing character sets.
