@@ -59,3 +59,17 @@ If you would like to contribute:
 3. New fonts (I need to work on BibleWorks Hebrew soon but I'd be open to including non-Bibleworks fonts which act in a similar way) 
 
 I'd be delighted if you submit a pull request!
+
+## Helpful links
+
+If you are contributing font conversions, please use the following sites:
+
+**What Unicode character is this?**
+https://www.babelstone.co.uk/Unicode/whatisit.html
+
+For example, in GREEK KORONIS `᾽` in some fonts looks exactly the same as RIGHT SINGLE QUOTATION MARK `’`. It’s important to use the correct letter, even though it looks the same! Copy and paste characters into the above website to confirm the character.
+
+Character 
+https://www.compart.com/en/unicode/
+
+Good for listing character sets from different languages
