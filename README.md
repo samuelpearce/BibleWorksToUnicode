@@ -1,11 +1,16 @@
 # BibleWorks to Unicode
 
-Converts Bible Works Font Text ``a;nqrwpoj`` to real Greek characters ``ἄνθρωπος``.
+This online tool allows you to modernise how your text is stored/displayed and support textual features such as Copy/Paste, changing fonts etc.
 
-This allows you to modernise how your text is stored/displayed and support things like Copy/Paste.
+This converts Bible Works Font Text ``a;nqrwpoj`` to real Greek characters ``ἄνθρωπος``. The encoding is UTF-8.
 
+## Get Started (use the tool)
 
-## Get started
+* Visit https://banneroftruth.github.io/BibleWorksToUnicode/
+* Follow the instructions
+* Step 3 shows a preview of your original BibleWorks text (requires the font to be installed).
+
+## Get started (Development)
 
 This is a project template using [Vite](https://vitejs.dev/). It requires [Node.js](https://nodejs.org) v12+.
 
@@ -17,15 +22,16 @@ npm run dev
 ```
 
 ## Why?
-A long time ago, to display Greek/Hebrew or other non-latin characters, you would write latin characters and change the font to make it look like the character you want.
+A long time ago, to display Greek/Hebrew or other non-Latin characters, you would write Latin characters and change the font to make it look like the character you want. This is how BibleWorks worked.
 
-The issue is that this method requires the user to have the font installed.
+This leads to the following problems
+* this method requires the user to have the font installed.
+* Copying letters from one application to another, you'd end up with ``a;nqrwpoj`` instead of ``ἄνθρωπος``. 
+* You can't search for specific greek characters using find/replace functions.
 
-Another issue is that if you copied the letters from one application to another, you'd end up with ``a;nqrwpoj`` instead of ``ἄνθρωπος``. 
+The modern way is to use Unicode characters for the letters you want. This allows you to change the font.
 
-The modern way is to actually use the Unicode characters for the letters you want.
-
-This app searches for character combinations and replaces with the corresponding greek letters based on what character BibleWorks would display.
+This app searches for character combinations and replaces them with the corresponding greek letters based on what character BibleWorks would have displayed.
 
 For example:
 * a > α
@@ -39,11 +45,11 @@ For example:
 * hv| > ᾐ
 
 ## Background
-I am currently working for a publisher converting old books into eBooks. Greek and Hebrew text are using BibleWorks fonts making the book not display correctly.
+I am currently working for a publisher converting old books into eBooks. Older titles use BibleWorks fonts and are not always displayed correctly.
 
-To save the editors time, I created this time for the conversions.
+To save the editors time, I created this tool for the conversions.
 
-I have no background in Greek/Hebrew, so I naïvely find a list of Greek characters and tried to find a similar character in the BibleWorks Font. 
+I have no background in Greek/Hebrew, so I have made an educated guess of the Unicode Greek characters and the similar character in the BibleWorks Font. 
 
 ## Contribute
 If you would like to contribute:
