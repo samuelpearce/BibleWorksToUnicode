@@ -3,9 +3,16 @@ We can create two-way bindings between state and form inputs using the v-model d
 -->
 <style>
 @import 'https://cdn.jsdelivr.net/gh/yegor256/tacit@gh-pages/tacit-css.min.css';
+@import './style/font.css';
 
 .letter {
   font-family: "bwgrkn";
+}
+
+footer {
+  color: #595959;
+  font-size: 0.84375rem;
+  margin: 0;
 }
 
 </style>
@@ -95,7 +102,11 @@ function copy(e) {
 	
   <button id="show-modal" @click="copy">Copy to clipboard</button>
 
- 
+ <footer>
+   BWHEBB, BWHEBL, BWTRANSH [Hebrew]; BWGRKL, BWGRKN, and BWGRKI [Greek] PostScript® Type 1 and TrueType fonts
+   Copyright ©1994-2015 BibleWorks, LLC. All rights reserved. These Biblical Greek and Hebrew fonts are used with
+   permission and are from BibleWorks (www.bibleworks.com).
+ </footer>
   
 </template>
 

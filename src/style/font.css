@@ -1,0 +1,190 @@
+@font-face {
+    font-family: 'Bweess';
+    src: local('Bweess'),
+        url('Bweess.woff2') format('woff2'),
+        url('Bweess.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bwgrkd';
+    src: local('Bwgrkd'),
+        url('Bwgrkd.woff2') format('woff2'),
+        url('Bwgrkd.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bweeti';
+    src: local('Bweeti'),
+        url('Bweeti.woff2') format('woff2'),
+        url('Bweeti.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bwcopm';
+    src: local('Bwcopm'),
+        url('Bwcopm.woff2') format('woff2'),
+        url('Bwcopm.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bwgrki';
+    src: local('Bwgrki'),
+        url('Bwgrki.woff2') format('woff2'),
+        url('Bwgrki.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BwCyrl';
+    src: local('BwCyrl'),
+        url('BwCyrl.woff2') format('woff2'),
+        url('BwCyrl.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bwhebb';
+    src: local('Bwhebb'),
+        url('Bwhebb.woff2') format('woff2'),
+        url('Bwhebb.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BWLexs';
+    src: local('BWLexs'),
+        url('BWLexs.woff2') format('woff2'),
+        url('BWLexs.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bwheba';
+    src: local('Bwheba'),
+        url('Bwheba.woff2') format('woff2'),
+        url('Bwheba.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bwgrkn';
+    src: local('Bwgrkn'),
+        url('Bwgrkn.woff2') format('woff2'),
+        url('Bwgrkn.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BWLexa';
+    src: local('BWLexa'),
+        url('BWLexa.woff2') format('woff2'),
+        url('BWLexa.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bwtransh';
+    src: local('Bwtransh'),
+        url('Bwtransh.woff2') format('woff2'),
+        url('Bwtransh.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BWSupps';
+    src: local('BWSupps'),
+        url('BWSupps.woff2') format('woff2'),
+        url('BWSupps.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bwgrkl';
+    src: local('Bwgrkl'),
+        url('Bwgrkl.woff2') format('woff2'),
+        url('Bwgrkl.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BWSupp';
+    src: local('BWSupp'),
+        url('BWSupp.woff2') format('woff2'),
+        url('BWSupp.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bwviet';
+    src: local('Bwviet'),
+        url('Bwviet.woff2') format('woff2'),
+        url('Bwviet.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BWSymbol';
+    src: local('BWSymbol'),
+        url('BWSymbol.woff2') format('woff2'),
+        url('BWSymbol.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bwhebl';
+    src: local('Bwhebl'),
+        url('Bwhebl.woff2') format('woff2'),
+        url('Bwhebl.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BWSymbs';
+    src: local('BWSymbs'),
+        url('BWSymbs.woff2') format('woff2'),
+        url('BWSymbs.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
