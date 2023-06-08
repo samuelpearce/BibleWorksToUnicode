@@ -104,6 +104,15 @@ function copy(e) {
 	
   <button id="show-modal" @click="copy">Copy to clipboard</button>
 
+  <h2>
+    Help
+  </h2>
+  <h3>What am I comparing in Step 3?</h3>
+  <p>You are comparing the top line (BibleWorks) text to the bottom line (Unicode) to ensure that the conversion has
+    happened correctly and that the semantics has been preserved. For example, some diacritics may not be rendered
+    properly.
+  </p>
+
  <footer>
    BWHEBB, BWHEBL, BWTRANSH [Hebrew]; BWGRKL, BWGRKN, and BWGRKI [Greek] PostScript® Type 1 and TrueType fonts
    Copyright ©1994-2015 BibleWorks, LLC. All rights reserved. These Biblical Greek and Hebrew fonts are used with
