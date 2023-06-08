@@ -63,7 +63,8 @@ function copy(e) {
   <p>Quickly convert BibleWorks Greek text to Unicode.</p>
 
   <h2>Step 1: Select Font</h2>
-  <select v-model="selected" style="width: 50%">
+  <p>Only Greek is supported at this moment</p>
+  <select v-model="selected" style="width: 50%" disabled>
     <option value="bwgrkn" selected>Greek Normal (bwgrkn)</option>
     <option value="bwgrkl">Greek Light (bwgrkl)</option>
     <option value="bwgrki">Greek Italics (bwgrki)</option>
