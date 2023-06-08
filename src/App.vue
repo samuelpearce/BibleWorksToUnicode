@@ -7,6 +7,7 @@ We can create two-way bindings between state and form inputs using the v-model d
 
 .letter {
   font-family: "bwgrkn";
+  font-size: 11.13em;
 }
 
 footer {
