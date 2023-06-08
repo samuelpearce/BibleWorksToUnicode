@@ -76,9 +76,9 @@ function copy(e) {
   <input type="text" v-model="text" style="width: 50%" />
   <br/>
 
-  <h3>
+  <h2>
     Step 3: Compare both lines
-  </h3>
+  </h2>
 
   <div class="original">
     <span class="letter">{{ text }}</span>
